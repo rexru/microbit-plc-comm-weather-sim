@@ -1,7 +1,7 @@
 # Weather Simulation Cart – Micro:bit & Industrial Shields PLC  
 
 ## Introduction  
-This project was developed for an **Endress+Hauser Weather Simulation Cart**, designed to enhance student learning by making coding more interactive and tangible. The goal was to teach coding concepts through **block-based programming** on the BBC Micro:bit while demonstrating how industrial hardware can be controlled and monitored. Videos of the prototyping proccess can be viewed on youtbe using the following link https://youtube.com/shorts/kXkYusIRzHw?si=NA4H6R2H_016vlUT 
+This project was developed for an **Endress+Hauser Weather Simulation Cart**, designed to enhance student learning by making coding more interactive and tangible. The goal was to teach coding concepts through **block-based programming** on the BBC Micro:bit while demonstrating how industrial hardware can be controlled and monitored. Videos of the prototyping proccess can be viewed on youtbe using the following link https://youtube.com/shorts/kXkYusIRzHw?si=NA4H6R2H_016vlUT .
 
 Students use block coding on the Micro:bit, paired with an IoT extension board, to create custom **weather patterns**. Each block corresponds to a weather effect:  
 
